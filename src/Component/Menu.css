@@ -1,0 +1,16 @@
+.Menu{
+   
+    display: inline-block;
+
+    margin-right: 20px;
+}
+
+.Menu-selected{
+    border-bottom: 2px solid blue;
+    font-weight: 500;
+}
+
+.Menu-notification{
+    font-size:0.6em;
+
+}
